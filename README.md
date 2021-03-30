@@ -23,7 +23,7 @@ Project is created with:
 	
 ## Setup
 To run this project, fisrt install python from [https://www.python.org/](https://www.python.org/).
-After successful installation of python, install django using pip command.
+After successful installation of python, install pygame module using pip command.
 ```
 $ pip install pygame
 ```
